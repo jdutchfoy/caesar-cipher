@@ -4,7 +4,7 @@
 
 The Caesar Cipher is a simple encryption technique that shifts each letter in a plaintext message by a certain number of positions down the alphabet.
 
-## Features
+### Features
 
 - Encryption: Encrypt a plain text phrase with a given shift.
 - Decryption: Restore an encrypted text back to its original form with the correct shift.
